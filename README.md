@@ -11,3 +11,4 @@ Actualización del readme.md
 
 ## Cambios locales
 Probando cambios locales, L0cal?
+Probando cambios locales; ¿Global?
